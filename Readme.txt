@@ -2,6 +2,8 @@ To export using Pyinstaller,
 
 pyinstaller -F -i EXPS.ico Spam.py --noconsole
 
+pyinstaller -F -i exe.ico Spam.py --noconsole
+
 [ If without icon ]
 
 pyinstaller -F Spam.py --noconsole
