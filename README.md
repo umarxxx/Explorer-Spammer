@@ -9,7 +9,7 @@ Explorer-Spammer is a Joke Program for Harmless Jokes. It spams File Explorer Wi
 
 ## Details :
 
-- `EXP-S.exe` : With Official Icon and Name. [ Recommended  & No Console]
+- `EXP-S.exe` : With Official Icon and Name. [ Recommended  & No Console ]
 - `Spam.exe` : With Generic Icon and can name can be modified to your liking! [ No Console ]
 - `Spam.bat` : Batch Script Version. [ Console Visible & Slowest ]
 
